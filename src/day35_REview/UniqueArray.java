@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class UniqueArray {
 
 	static public void main(String... strings) {
+		//TEST
 		int[] nums = {10, 4, 4};
 		System.out.println(Arrays.toString(nums));
 		
