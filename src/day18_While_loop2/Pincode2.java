@@ -1,4 +1,4 @@
-package day18_While_loop2;
+package day18_while_loop2;
 
 import java.util.*;
 

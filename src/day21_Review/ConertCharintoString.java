@@ -1,4 +1,4 @@
-package day21_Review;
+package day21_review;
 
 public class ConertCharintoString {
 

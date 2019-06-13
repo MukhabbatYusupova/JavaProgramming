@@ -1,4 +1,4 @@
-package day22_Review2;
+package day22_review2;
 
 public class substringReview {
 

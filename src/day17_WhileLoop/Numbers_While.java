@@ -1,4 +1,4 @@
-package day17_WhileLoop;
+package day17_whileLoop;
 import java.util.*;
 public class Numbers_While {
 

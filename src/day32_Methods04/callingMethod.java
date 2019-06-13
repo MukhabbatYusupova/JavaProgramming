@@ -1,4 +1,4 @@
-package day32_Methods04;
+package day32_methods04;
 
 public class callingMethod {
 

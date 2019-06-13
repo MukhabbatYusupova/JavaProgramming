@@ -1,4 +1,4 @@
-package day21_Review;
+package day21_review;
 import java.util.*;
 
 public class sumOfInts {

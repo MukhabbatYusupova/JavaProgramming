@@ -1,4 +1,4 @@
-package day19_DoWhileloops;
+package day19_doWhileloops;
 import java.util.*;
 public class Palindrome {
 	public static void main(String []args) {

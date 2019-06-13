@@ -1,4 +1,4 @@
-package day07_ScannerOperators;
+package day07_scannerOperators;
 
 public class PreandPost2 {
 	public static void main(String[] args) {

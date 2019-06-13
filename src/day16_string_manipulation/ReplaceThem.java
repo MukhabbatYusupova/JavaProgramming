@@ -1,4 +1,4 @@
-package day16_string_manipulation;
+package day16_String_manipulation;
 import java.util. *;
 public class ReplaceThem {
 	public static void main(String []args) {

@@ -1,4 +1,4 @@
-package day12_Switch_ternary;
+package day12_switch_ternary;
 import java.util.*;
 
 public class CalculatorV01 {

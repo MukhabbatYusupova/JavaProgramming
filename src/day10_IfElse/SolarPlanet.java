@@ -1,4 +1,4 @@
-package day10_IfElse;
+package day10_ifElse;
 	import java.util.*;
 public class SolarPlanet {
 	
