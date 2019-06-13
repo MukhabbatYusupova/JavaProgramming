@@ -23,6 +23,8 @@ public class AnimalDemo {
 		animals[1].talk();
 		animals[2].talk();
 		
+		animals[0] = new Cheetah();
+		
 		
 		
 		
